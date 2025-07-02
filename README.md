@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Hussien Abdrabo
 
-<!--
-**Hussien-abdorabo/Hussien-abdorabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate  
+💻 Backend Developer (Laravel, PHP, MySQL)  
+🧠 Always learning | Currently diving into system design & microservices  
+🚀 Building real-world apps like Healthcare CRMs, Job Boards, and Instagram Clones  
+📫 Contact me: [LinkedIn](https://www.linkedin.com/in/al-hussien-abdorabbo-7048b4316/) | [Email](mailto:hussienabdoraboo@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+- **Healthcare CRM** – Patient & doctor management system  
+- **Instagram Clone** – Real-time DMs with Laravel & Pusher  
+- **Job Board** – Laravel-based job platform  
+- **Employee Management System** – Admin panel & CRUD system  
+
+---
+
+## 📊 GitHub Stats
+![Hussien's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hussien-abdorabo&show_icons=true&theme=dark)
+
+---
+> "I don't just write code, I write history."
